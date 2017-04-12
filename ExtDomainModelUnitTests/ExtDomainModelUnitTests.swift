@@ -94,6 +94,7 @@ class ExtDomainModelUnitTests: XCTestCase {
         
     }
     
+    //combines sections from above
     func testWeirdStuff() {
         let money = 12.GBP
         let money2 = 16.USD
