@@ -245,23 +245,4 @@ open class Family : CustomStringConvertible {
     }
 }
 
-let person1 = Person(firstName: "David", lastName: "Ross", age: 98)
-person1.job = Job(title: "old", type: Job.JobType.Salary(2))
-
-let person2 = Person(firstName: "name1", lastName: "lastname1", age: 51)
-person2.job = Job(title:"King", type: Job.JobType.Salary(9000))
-
-let family = Family(spouse1: person1, spouse2: person2)
-let kid = Person(firstName: "kid", lastName:"kidlastname", age:0)
-var blank = family.haveChild(kid)
-
-print(family.description)
-let job = Job(title: "Dentist", type: Job.JobType.Hourly(39.0))
-print(job.description)
-
-let money = Money(amount: 40, currency: Money.currencies.CAN)
-let money2 = Money(amount: 40, currency:Money.currencies.USD)
-let result = money.add(money2)
-print(result.description)
-
 
