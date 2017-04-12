@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExtDomainModel/main.swift"
+            timestampString = "513732459.513086"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "210"
+            endingLineNumber = "210"
+            landmarkName = "Family"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExtDomainModelUnitTests.Family.init (spouse1 : ExtDomainModelUnitTests.Person, spouse2 : ExtDomainModelUnitTests.Person) -&gt; ExtDomainModelUnitTests.Family"
+                  moduleName = "ExtDomainModelUnitTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kpham97/Desktop/ExtDomainModel/ExtDomainModel/main.swift"
+                  timestampString = "513733486.351291"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "202"
+                  endingLineNumber = "202"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExtDomainModelUnitTests.Family.__allocating_init (spouse1 : ExtDomainModelUnitTests.Person, spouse2 : ExtDomainModelUnitTests.Person) -&gt; ExtDomainModelUnitTests.Family"
+                  moduleName = "ExtDomainModelUnitTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kpham97/Desktop/ExtDomainModel/ExtDomainModel/main.swift"
+                  timestampString = "513733486.353372"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExtDomainModelUnitTests/ExtDomainModelUnitTests.swift"
+            timestampString = "513733186.778986"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "testPrintPerson()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExtDomainModelUnitTests/ExtDomainModelUnitTests.swift"
+            timestampString = "513733134.049604"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "testAddMoney()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
